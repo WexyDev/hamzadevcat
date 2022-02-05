@@ -1,6 +1,6 @@
-# hello My name is hamza :3
+# Hello my name is hamza :3
 
-### Sosyal Medya
+### Social Media
 <p align="left">
    <a href="https://discord.com/users/665294422749085696" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://www.youtube.com/c/hamzadevcat" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -10,10 +10,11 @@
 
 
 
-### Diller ve Programlar
+### Languages & OPrograms
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=flat-square&logo=python&logoColor=ffd830&color=4890c0)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
